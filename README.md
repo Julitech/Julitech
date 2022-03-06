@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Julitech -  A FullStack Web And Mobile App Developer 👋
 
 <!--
 **Julitech/Julitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
