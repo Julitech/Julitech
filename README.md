@@ -1,6 +1,12 @@
-### Hi there I'm Julitech -  A FullStack Web And Mobile App Developer 👋
+<h1>Hi there I'm Julitech <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h3>A FullStack Web And Mobile App Developer</h3>
 
 <br>
+
+<!-- <ul>
+  <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">My Resume</a>.</li>
+  <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Reading(📖) and Gaming</li>
+</ul> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,6 +41,9 @@
    <a href="https://figma.com/" target="_blank" rel="noreferrer"><img
       src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
       alt="figma" width="40" height="40" /> </a>
+  <a href="https://figma.com/" target="_blank" rel="noreferrer"><img
+      src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg"
+      alt="adobexd" width="40" height="40" /> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a>
@@ -74,8 +83,9 @@
 <br>
 <br>
 
-| <a href="https://github.com/Julitech"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Julitech's github stats" /></a> | <a href="https://github.com/Julitech"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=dark&hide_border=true" /></a> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=light&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Julitech's github stats" /> 
+
 
 <br />
 <br />
