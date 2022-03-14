@@ -7,13 +7,13 @@
   <a href="https://www.linkedin.com/in/julitech/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Julius Ewansiha" height="30" width="40" /></a> 
-    <a href="https://www.linkedin.com/in/julitech/" target="blank"><img align="center"
+    <a href="https://www.wa.me/2348101584577" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="Julius Ewansiha" height="30" width="40" /></a> 
   <a href="https://fb.com/deba.ewansiha" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="Julius Ewansihaa" height="30" width="40" /></a> 
-  <a href="https://instagram.com/_._.adam._" target="blank"><img align="center"
+  <a href="https://www.instagram.com/julitech1" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Julius Ewansiha" height="30" width="40" /></a> 
  <a href="https://twitter.com/julitech3" target="blank"><img align="center"
