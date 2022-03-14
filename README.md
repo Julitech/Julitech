@@ -24,21 +24,27 @@
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  </a>
-      <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
   <img
       src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"
       alt="flutter" width="40" height="40" /> </a>
+ <a href="https://dart.dev/" target="_blank" rel="noreferrer">
+  <img
+      src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"
+      alt="dart" width="40" height="40" /> </a>
+   <a href="https://figma.com/" target="_blank" rel="noreferrer"><img
+      src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"
+      alt="figma" width="40" height="40" /> </a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
-      alt="android" width="40" height="40" /> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      alt="android" width="40" height="40" /> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
+      alt="bootstrap" width="40" height="40" /> </a> 
+      <a href="https://www.cprogramming.com/" target="_blank"
+    rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg"
+      alt="firebase" width="40" height="40" /> </a>
+      <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
@@ -53,18 +59,19 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
       alt="javascript" width="40" height="40" /> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      alt="mysql" width="40" height="40" /> </a>
+</a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
       alt="nodejs" width="40" height="40" />
-
-      <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-  <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40"
-      height="40" /> </a> 
-      </p>
-
+  </a>
+  
+  
+<br>
+<br>
 <br>
 
 | <a href="https://github.com/Julitech"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Julitech's github stats" /></a> | <a href="https://github.com/Julitech"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=dark&hide_border=true" /></a> |
