@@ -1,5 +1,11 @@
 ### Hi there I'm Julitech -  A FullStack Web And Mobile App Developer 👋
 
+| <a href="https://github.com/Adebayo-S/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=stars" alt="Adebayo's github stats" /></a> | <a href="https://github.com/Adebayo-S/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
+| ------------- | ------------- |
+
+<br />
+<br />
+
 <!--
 **Julitech/Julitech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
