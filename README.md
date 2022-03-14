@@ -1,6 +1,6 @@
 ### Hi there I'm Julitech -  A FullStack Web And Mobile App Developer 👋
 
-| <a href="https://github.com/Julitech/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Adebayo's github stats" /></a> | <a href="https://github.com/Julitech/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
+| <a href="https://github.com/Julitech"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=dark&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Adebayo's github stats" /></a> | <a href="https://github.com/Julitech/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=dark&hide_border=true&hide=html,css" /></a> |
 | ------------- | ------------- |
 
 <br />
