@@ -1,5 +1,5 @@
 <h1>Hi there I'm Julitech <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h3>A FullStack Web And Mobile App Developer</h3>
+<h3>Seasoned and Pro Mobile App Developer</h3>
 
 <br>
 
