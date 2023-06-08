@@ -85,7 +85,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=light&hide_border=true" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julitech&" alt="julitech" /></p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Julitech's github stats" /> 
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Julitech&show_icons=true&include_all_commits=true&theme=light&count_private=true&hide_border=true&border_radius=2&hide=contribs" alt="Julitech's github stats" />  -->
 
 
 
