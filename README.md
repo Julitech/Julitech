@@ -7,6 +7,8 @@
   <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://flowcv.io/resume/feedback/lMhKFXfgJjf8">My Resume</a>.</li>
   <li>😄 <b>Fun fact</b>: I love Cars(🚗), Coding(💻), Reading(📖) and Gaming</li>
 </ul> -->
+ ## 🔗 Links:
+Personal Website: <a href="https://julitech.net" target="blank">julitech.net</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
