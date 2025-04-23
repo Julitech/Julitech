@@ -1,4 +1,4 @@
-<h1>Hi there I'm Julitech <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1>Hi there I'm Julius .O. Ewansiha (Julitech) ( <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3>Top Rated Mobile App Developer</h3>
 <h4>🛠️ I’ve delivered 30+ apps for clients across healthcare, e-commerce, and fintech. While many of my projects are under NDA, I specialize in building scalable, secure, and performance-optimized Flutter apps with modern architecture.</h4>
 
