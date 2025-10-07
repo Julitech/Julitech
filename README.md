@@ -81,3 +81,29 @@
   </a>
   <a href="https://wa.link/xobr52" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" height="30" width="40" alt="WhatsApp" />
+  </a>
+  <a href="https://fb.com/deba.ewansiha" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/julitech1" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" alt="Instagram" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julitech&layout=compact&theme=light&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Julitech&theme=light&hide_border=true" alt="Julitech Streak" />
+</p>
+
+---
+
+<!--
+**Julitech/Julitech** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+-->
